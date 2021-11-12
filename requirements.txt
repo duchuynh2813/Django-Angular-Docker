@@ -1,0 +1,7 @@
+asgiref==3.4.1
+Django==3.2.9
+django-cors-headers==3.10.0
+djangorestframework==3.12.4
+djangorestframework-jsonapi==4.2.1
+inflection==0.5.1
+psycopg2-binary>=2.8
